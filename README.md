@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deplay
+
+Clique [https://ori-flix.vercel.app/](https://ori-flix.vercel.app/) para ver o site publicado
+
+
 ## Available Scripts
 
 In the project directory, you can run:
