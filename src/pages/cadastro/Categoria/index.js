@@ -25,7 +25,7 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL_TOP = 'http://localhost:8080/categorias';
+    const URL_TOP = 'https://oriflix.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (response) => {
         const resposta = await response.json();
